@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>CustomAlertX Animation Style: (Select One) </string>
+		</dict>	
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.ion.customalertx</string>
+			<key>key</key>
+			<string>borderEnabled</string>
+			<key>label</key>
+			<string>Border Animation</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Border Color: (Red)</string>
+		</dict>		
+	    <dict>
+		    <key>cell</key>
+		    <string>PSSliderCell</string>
+		    <key>default</key>
+		    <integer>0</integer> <!-- Default value of the slider -->
+		    <key>defaults</key>
+		    <string>com.ion.customalertx</string> <!-- entry path no extension -->
+		    <key>key</key>
+		    <string>redAmount</string> <!-- Your key name here -->
+		    <key>max</key>
+		    <real>255</real> <!-- Enter your maximum value here -->
+		    <key>min</key>
+		    <real>0</real> <!-- Enter your minimum value here -->
+		    <key>showValue</key> <!-- Show the value of the slider. true or false. -->
+			<true/>
+			<key>label</key>
+			<string>Red: </string>
+	    </dict>  
+		<dict>
+		<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Border Color: (Green)</string>
+		</dict>			
+		<dict>
+		    <key>cell</key>
+		    <string>PSSliderCell</string>
+		    <key>default</key>
+		    <integer>255</integer> <!-- Default value of the slider -->
+		    <key>defaults</key>
+		    <string>com.ion.customalertx</string> <!-- entry path no extension -->
+		    <key>key</key>
+		    <string>greenAmount</string> <!-- Your key name here -->
+		    <key>max</key>
+		    <real>255</real> <!-- Enter your maximum value here -->
+		    <key>min</key>
+		    <real>0</real> <!-- Enter your minimum value here -->
+		    <key>showValue</key> <!-- Show the value of the slider. true or false. -->
+			<true/>
+			<key>label</key>
+			<string>Green: </string>
+	    </dict>  
+		<dict>
+		<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Border Color: (Blue)</string>
+		</dict>			
+		<dict>
+		    <key>cell</key>
+		    <string>PSSliderCell</string>
+		    <key>default</key>
+		    <integer>0</integer> <!-- Default value of the slider -->
+		    <key>defaults</key>
+		    <string>com.ion.customalertx</string> <!-- entry path no extension -->
+		    <key>key</key>
+		    <string>blueAmount</string> <!-- Your key name here -->
+		    <key>max</key>
+		    <real>255</real> <!-- Enter your maximum value here -->
+		    <key>min</key>
+		    <real>0</real> <!-- Enter your minimum value here -->
+		    <key>showValue</key> <!-- Show the value of the slider. true or false. -->
+			<true/>
+			<key>label</key>
+			<string>Blue: </string>
+	    </dict>   		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ion.customalertx</string>
+			<key>key</key>
+			<string>dotsEnabled</string>
+			<key>label</key>
+			<string>Dot Animation</string>
+		</dict>
+		
+	</array>
+	<key>title</key>
+	<string>CustomAlertX</string>
+</dict>
+</plist>
