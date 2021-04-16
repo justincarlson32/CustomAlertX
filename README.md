@@ -3,7 +3,7 @@ Integrates always on display lock screen notification customizations with a sign
 **Features Included**  
  * Cube Notification style
    * App-Themed color & Icon
-   * Rotating
+   * 3d Rotation
  <img src="https://user-images.githubusercontent.com/41803725/114985801-16115280-9e48-11eb-8947-17dc62836140.PNG" width="200">  
 
 * Border Notification style
