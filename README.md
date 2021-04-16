@@ -1,7 +1,12 @@
 Integrates always on display lock screen notification customizations with a significant amount of customization features for all iOS devices from iOS 9-14.
 
 **Features Included**  
- * Border Notification style
+ * Cube Notification style
+   * App-Themed color & Icon
+   * Rotating
+ <img src="https://user-images.githubusercontent.com/41803725/114985801-16115280-9e48-11eb-8947-17dc62836140.PNG" width="200">  
+
+* Border Notification style
    * Customizable Color
    * Rainbow Animation Color
    * Pulsate Animation with Customizable Speed
