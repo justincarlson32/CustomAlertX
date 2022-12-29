@@ -1,4 +1,4 @@
-Integrates always on display lock screen notification customizations with a significant amount of customization features for all iOS devices from iOS 9-14.
+Integrates always on display lock screen notification customizations with a significant amount of customization features for all iOS devices from iOS 9-15.
 
 **Features Included**  
  * Cube Notification style
